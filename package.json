@@ -1,0 +1,18 @@
+{
+  "name": "erc20-with-truffle-practice-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-work:yusangKim/ERC20-With-Truffle-Practice-.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
